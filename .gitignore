@@ -1,0 +1,19 @@
+/build
+/out
+*.iml
+.gradle
+.nb-gradle
+.idea
+.settings
+.classpath
+.project
+/activemq
+classes
+*/build
+*/.gradletasknamecache
+/src/main/resources/pages
+*.attach_pid*
+/*.log
+lombok.config
+/Issuing_WS_NEW.wsdl
+git diff --color-words='[[:space:]]|([[:alnum:]]|UTF_8_GUARD)+' --word-diff=plain
